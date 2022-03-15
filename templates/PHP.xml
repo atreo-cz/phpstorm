@@ -1,0 +1,10 @@
+<templateSet group="PHP">
+  <template name="fce" value="public function $value1$($value2$)&#10;{&#10;    $value3$&#10;}" description="funkce" toReformat="false" toShortenFQNames="true">
+    <variable name="value1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
