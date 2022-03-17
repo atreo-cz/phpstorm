@@ -37,7 +37,18 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ExternalSystem.CollapseAll" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
@@ -48,4 +59,9 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="RecentLocations" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="Uml.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
