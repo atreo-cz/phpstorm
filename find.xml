@@ -4,5 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.twig</mask>
+    <mask>*controller*</mask>
+    <mask>*-controller.ts</mask>
   </component>
 </application>
