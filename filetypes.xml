@@ -5,7 +5,6 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="tests" type="AUTO_DETECTED" />
-      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
