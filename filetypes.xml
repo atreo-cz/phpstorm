@@ -9,6 +9,7 @@
       <mapping pattern=".babelrc.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="glb" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <removed_mapping ext="hbs" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="latte" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
