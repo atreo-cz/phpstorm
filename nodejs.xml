@@ -1,5 +1,10 @@
 <application>
-  <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/opt/homebrew/bin/node" />
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/Users/martinpanek/www/monery/docker-compose.yml]:app/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/www/monery/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
   </component>
 </application>
