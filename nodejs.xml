@@ -7,7 +7,7 @@
       <version-cache version="18.7.0" last-modified="1660115629921" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/opt/node/bin/node">
-      <version-cache version="18.7.0" last-modified="1660115629921" />
+      <version-cache version="18.10.0" last-modified="1665406100871" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/opt/node@14/bin/node">
       <version-cache version="14.20.0" last-modified="1659611303571" />
